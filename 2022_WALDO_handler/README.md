@@ -4,3 +4,5 @@ Resulting shapefiles and projected photographs are not exactly accurate image lo
 
 Example of projected photos on top of a footprint polygon:
 ![screenshot of georeferenced images and shapefile of footprints](https://github.com/gl7176/georeferencing_over_water/blob/main/2022_WALDO_handler/footprints_r.png)
+
+Without examining on-land imagery it is difficult to tell whether gaps correspond to lags in the camera or lags in the GPS tags. I suspect the latter, but future work should examine more projected imagery and possibly incorporate a smoothing algorithm for GPS locations across a transect.
