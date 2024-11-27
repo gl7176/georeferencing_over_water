@@ -1,4 +1,4 @@
-This folder contains a heavily adapted version of the original script, adapted to handle Waldo imagery with the IRMA csv format (https://doi.org/10.57830/2302816).
+This folder contains a heavily adapted version of the original script, modified to handle Waldo imagery with the IRMA csv format (https://doi.org/10.57830/2302816).
 
 Resulting shapefiles and projected photographs are not exactly accurate image locations, but rather approximate estimated locations, assuming a perfectly level aircraft (in the absence of inclinometer measurements), with variation by altitude and heading (which is estimated from consecutive photo locations).
 
