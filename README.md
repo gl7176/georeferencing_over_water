@@ -1,4 +1,4 @@
-# georeferencing_over_water
+# positional_georeferencing
 Georeferencing aerial imagery using only positional information 
 
 This script is designed to project aerial photographs onto an estimated flat surface without any "stitching" or surficial orthorectification. This allows imagery to be approximately geolocated in space without fixed/static features for reference. The use platform and gimbal orientation (pitch, yaw, roll) makes projected locations more accurate than an assumed nadir perspective. This treatment was developed for mapping of water surfaces (e.g. sea ice, surface chlorophyll, marine wildlife) where orthorectification is not necessary and static features are generally absent, but it may also find use in cases where images lack sufficient overlap for stitching—although relief distortions will be present in landscapes with dynamic elevation.
